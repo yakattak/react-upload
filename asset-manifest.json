@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yakattak/static/css/main.e7720ab7.css",
+    "main.js": "/yakattak/static/js/main.f8ffbad7.js",
+    "index.html": "/yakattak/index.html",
+    "main.e7720ab7.css.map": "/yakattak/static/css/main.e7720ab7.css.map",
+    "main.f8ffbad7.js.map": "/yakattak/static/js/main.f8ffbad7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.f8ffbad7.js"
+  ]
+}
